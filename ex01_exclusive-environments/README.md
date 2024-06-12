@@ -19,7 +19,7 @@
 
 To access the project, click the link below:
 
-[🔗 Click here to access](https://github.com/juliannalencar/dev-web_explorer/ex01_exclusive-environments.git)
+[🔗 Click here to access](https://github.com/juliannalencar/dev-web_explorer/tree/main/ex01_exclusive-environments)
 
 ## 🎨 Layout
 
